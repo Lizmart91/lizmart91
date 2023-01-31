@@ -1,0 +1,35 @@
+body{
+  background-color: pink;
+   }
+h1 {
+  color:gray; 
+  font-size: 36px;
+  font-family: lucida bright, tohoma;
+   }
+h5{
+  color:gray;
+  font-size: 12px;
+  font-family: lucida bright, tohoma;
+  }
+h3{
+  color:gray;
+  font-size: 16px;
+  font-family: lucida bright, tohoma;
+  }
+h4{
+  color:gray;
+  font-size: 12px;
+  font-family: lucida bright, tohoma;
+  }
+.header{
+  background-color: pink;
+  
+  }
+.footer{
+  color:gray;
+  font-size: 12px;
+  font-family: lucida bright, tohoma;
+  }
+img{
+  width: 50%;
+  }
